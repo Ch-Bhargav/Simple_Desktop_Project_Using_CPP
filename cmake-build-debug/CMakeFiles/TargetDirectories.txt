@@ -1,0 +1,3 @@
+C:/Users/chira/CLionProjects/DesktopProject/cmake-build-debug/CMakeFiles/DesktopProject.dir
+C:/Users/chira/CLionProjects/DesktopProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chira/CLionProjects/DesktopProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
