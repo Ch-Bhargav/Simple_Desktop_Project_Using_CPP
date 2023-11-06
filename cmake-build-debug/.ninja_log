@@ -1,0 +1,12 @@
+# ninja log v5
+4	333	7209679758389204	CMakeFiles/DesktopProject.dir/main.cpp.obj	2be4a657f5e1e558
+333	427	7209679759289087	DesktopProject.exe	774c9288000c06d4
+3	219	7209874620629397	build.ninja	f7b57a89b2775d63
+15	461	7209874626079601	CMakeFiles/DesktopProject.dir/src/Employee.cpp.obj	1ff9c52ef6cb2afd
+3	1738	7209874638858623	CMakeFiles/DesktopProject.dir/src/CSVHelper.cpp.obj	833ae0b36635513f
+3	1231	7209875419908469	CMakeFiles/DesktopProject.dir/main.cpp.obj	2be4a657f5e1e558
+3	1701	7209876025280846	CMakeFiles/DesktopProject.dir/src/EmployeeManager.cpp.obj	6a3398f2b6134e58
+8	1768	7209876025950517	CMakeFiles/DesktopProject.dir/src/CSVHelper.cpp.obj	833ae0b36635513f
+1768	2012	7209876028367654	DesktopProject.exe	f59d79eedf71afab
+2	1261	7209876645390211	CMakeFiles/DesktopProject.dir/main.cpp.obj	2be4a657f5e1e558
+1261	1370	7209876646442275	DesktopProject.exe	f59d79eedf71afab
