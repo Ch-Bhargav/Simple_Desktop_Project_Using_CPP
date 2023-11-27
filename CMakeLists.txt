@@ -11,3 +11,8 @@ add_executable(DesktopProject main.cpp
         src/EmployeeManager.cpp
         src/CSVHelper.cpp
 )
+
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}/bin")
+#add_executable(DesktopProject main.cpp src/EmployeeManager.cpp src/Employee.cpp src/CSVHelper.cpp)
+
+
